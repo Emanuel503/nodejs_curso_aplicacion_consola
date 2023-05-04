@@ -1,0 +1,1 @@
+# Carpeta de los archivos TXT creados por el programa

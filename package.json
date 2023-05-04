@@ -1,0 +1,26 @@
+{
+  "name": "creacion-de-archivos",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar con parametros desde consola, genera un archivo txt con el resultado",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuel503/NodeJS.git"
+  },
+  "keywords": [
+    "multiplicar"
+  ],
+  "author": "Emanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuel503/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Emanuel503/NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
